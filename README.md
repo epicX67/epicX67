@@ -6,6 +6,8 @@ A simple guy who is very passionate about programming & gaming (Not PubgMobile e
 
 Check out my website for [more](https://epicx67.github.io/) .
 
+https://github-readme-stats.vercel.app/api?username=epicX67&show_icons=true)
+
 
 #### Support
 If you like my work, support me :blush:.
