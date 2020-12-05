@@ -8,6 +8,8 @@ Check out my website for [more](https://epicx67.github.io/) .
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=epicX67)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicX67)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Support
 If you like my work, support me :blush:.
