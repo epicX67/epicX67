@@ -1,4 +1,5 @@
 ## :boy: epicX
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=epicX67.epicX67)
 
 Hi! I'm **Sourav Gain**. 
 
