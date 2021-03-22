@@ -7,9 +7,9 @@ A simple guy who is very passionate about programming & gaming (Not PubgMobile e
 
 Check out my website for [more](https://epicx67.github.io/) .
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=epicX67&bg_color=120,7a9bff,95AEFC80&title_color=000)](https://github.com/anuraghazra/github-readme-stats) [
+[![Stats](https://github-readme-stats.vercel.app/api?username=epicX67&bg_color=120,7a9bff,d1ddff&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![epicX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=epicX&bg_color=50,7affc5,7ad9ff80&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=epicX&bg_color=50,7affc5,7ad9ff&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Support
