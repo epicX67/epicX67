@@ -9,8 +9,6 @@ Check out my website for [more](https://epicx67.github.io/) .
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=epicX67&bg_color=120,7a9bff,d1ddff&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=epicX&bg_color=50,7affc5,7ad9ff&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #### Support
 If you like my work, support me :blush:.
@@ -20,6 +18,8 @@ If you like my work, support me :blush:.
 
 <!--
 **epicX67/epicX67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=epicX&bg_color=50,7affc5,7ad9ff&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
